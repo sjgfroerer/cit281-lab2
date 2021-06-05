@@ -1,20 +1,14 @@
-TESTING TESTING 
-ascsa
-d
+Purpose:
 
-asdsdasd
+Use CLI commands for directory and file manipulation
+Use CLI commands for git commands
 
+Technologies Used:
 
+Chrome
+GitHub Pull Requests and Issues
+git
 
+What I Learned:
 
-asdasdasdasd
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sjgfroerer/cit281-lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-
-
-
-adhajsdaskjhdkajsasc
-S
+How to make a New git repository, Initial JavaScript file, Add file to git, Ignoring files, Using diff to see changes, Using wildcards, Cloning cloud repos locally, Branch, Repo files, 
